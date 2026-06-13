@@ -1,4 +1,4 @@
-# What's up World, Michael is here 👋
+# Whassss up World, Mikyyyyyy is here 👋
 
 ## ⚡ Professional Statement
 A natural Challenger of Boundaries and a strategic Troubleshooter. I possess an intrinsic drive to understand how complex systems are built and a relentless curiosity to discover how they can be legally dismantled. Highly motivated by the intricate nature of cybersecurity challenges and thrive on the creative, out-of-the-box thinking required for success.
@@ -12,5 +12,5 @@ Beyond the technical puzzles, I deeply believe in the social impact of this indu
 * 💻 Getting my hands dirty with Linux command lines, bash scripting, and basic Python automation.
 * 🛡️ Learning how to analyze system vulnerabilities and understand the hacker's mindset from scratch.
 
-## 💼 Let’s talk problems.
+## 💼 HIT ME UP
 Email:michaelxinrui@gmail.com
