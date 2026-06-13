@@ -1,11 +1,9 @@
 # Whassss up World, Mikyyyyyy is here 👋
 
 ## ⚡ Professional Statement
-A natural Challenger of Boundaries and a strategic Troubleshooter. I possess an intrinsic drive to understand how complex systems are built and a relentless curiosity to discover how they can be legally dismantled. Highly motivated by the intricate nature of cybersecurity challenges and thrive on the creative, out-of-the-box thinking required for success.
+A natural challenger of boundaries and a strategic troubleshooter. I don’t just look at code, I see a puzzle waiting to be broken. Driven by a relentless curiosity to understand how complex systems are built—and a passion to legally dismantle them. 
 
-I don't just look at code; I see a puzzle waiting to be solved, and I enjoy the process of turning a system’s weakness into its greatest learning opportunity. Driven by passion and the thrill of complex problem-solving.
-
-Beyond the technical puzzles, I deeply believe in the social impact of this industry. In an increasingly interconnected world, securing code means protecting communities, safeguarding personal privacy, and defending the digital infrastructure that society relies on every single day. For me, cybersecurity is not just a career—it is a mission to build trust and safety in the digital age.
+For me, cybersecurity is bigger than technical puzzles. In a hyper-connected world, securing code means protecting communities and defending the digital infrastructure society relies on. It’s not just a career, it’s a mission to build trust and safety in the digital age.
 
 ## 🎯 Current Battleground
 * 📖 Diving deep into the fundamentals of networks, operating systems, and security frameworks.
